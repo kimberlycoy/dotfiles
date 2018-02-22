@@ -1,0 +1,4 @@
+alias mvim="open -a MacVim"
+alias ls="command ls -FG"
+alias ll="ls -la"
+
